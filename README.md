@@ -1,10 +1,10 @@
 # Yilun Zhao
 
-# Education
+## Education
 
-# Publications
+## Publications
 
-# Teaching
+## Teaching
 
 
 ## H2
